@@ -8,15 +8,11 @@
 
 - 👀 Last project I've workend on **Pathpal - Interactive Map with Indoor-Navigation**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/knotzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/knotzer" height="30" width="40" /></a>
 </p>
-
-
-<hr>
 <h2 align="center">🔥 Skills & Abilities 🔥</h2>
-<br>
 <div align="center">
   <h3 align="center">📜 Languages 📜</h2>
     <a href="https://skillicons.dev">
