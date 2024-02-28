@@ -8,7 +8,9 @@
 
 - 👀 Last project I've workend on [Pathpal - Interactive Map with Indoor-Navigation](https://github.com/kno20205/pathpal-indoor-navigation)
 
-<h1 align="center">🔥 Skills & Abilities 🔥</h2>
+<h1 align="center" display="flex" flex="columns">🔥 Skills 🔥</h2>
+<details>
+<summary>show</summary>
 <div align="center">
   <h3 align="center">📜 Languages 📜</h2>
     <a href="https://skillicons.dev">
@@ -45,6 +47,9 @@
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" height="30"/>
   </a>
 </p>
+  
+</details>
+
 
 
 
