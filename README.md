@@ -46,7 +46,7 @@
   
   <h3 align="center">🎨 Design Tools 🎨</h2>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma" height="30"/>
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma" height="30"/>
   </a>
 </p>
 
