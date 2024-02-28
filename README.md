@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👀 Last project I've workend on **Pathpal - Interactive Map with Indoor-Navigation**
+- 👀 Last project I've workend on [Pathpal - Interactive Map with Indoor-Navigation](https://github.com/kno20205/pathpal-indoor-navigation)
 
 <h1 align="center">🔥 Skills & Abilities 🔥</h2>
 <div align="center">
