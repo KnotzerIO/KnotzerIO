@@ -2,10 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Mark;Fullstack+Developer;Ready+to+collaborate!" alt="Typing SVG" /></a>
 </h1>
 
-- 🔭 I’m currently working on [Knowplan - Advanced Project Management Tool](https://github.com/kno20205/knowplan)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👀 Last project I've workend on [Interactive Map with Indoor-Wayfinding](https://github.com/kno20205/indoor-wayfinder)
 
 <h1 align="center" display="flex" flex="columns">🔥 Skills 🔥</h2>
