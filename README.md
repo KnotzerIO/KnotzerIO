@@ -3,7 +3,7 @@
 
 </h1>
 
-- 👀 Last project I've workend on [Interactive Map with Indoor-Wayfinding](https://github.com/KnotzerIO/indoor-wayfinder)
+- 👀 Check out my current project: [OpenIndoorMaps – a collaborative indoor navigation project](https://github.com/KnotzerIO/openindoormaps) 
 
 <h1 align="center">⚡ Stats ⚡</h2>
 <br>
