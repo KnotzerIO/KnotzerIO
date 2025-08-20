@@ -1,3 +1,4 @@
+![Profile View Count](https://komarev.com/ghpvc/?username=KnotzerIO)
 <h1 align="center">
 <b>Mark Knotzer</b>
 </h1>
