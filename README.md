@@ -1,13 +1,15 @@
 ![Profile View Count](https://komarev.com/ghpvc/?username=KnotzerIO)
-<h1 align="center">
-<b>Mark Knotzer</b>
-</h1>
 
-👀 Check out my current project: [OpenIndoorMaps – a collaborative indoor navigation project](https://github.com/KnotzerIO/openindoormaps)
+# 👋 Hey, I'm Mark!
+💻 Fullstack Dev | 🎓 Student at FH Campus | 🚀 Currently coding @ [durchblicker.at](https://durchblicker.at)
 
-<h1 align="center">⚡ Stats ⚡</h1>
+## 🌐 Connect With Me  
+
+[![Website](https://img.shields.io/badge/Website-knotzer.io-2648ff?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.knotzer.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Knotzer-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knotzer)
+  
+## 📊 GitHub Wrapped
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=KnotzerIO&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnotzerIO&text_color=ffffff&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=react" />
+   <img src="https://github-readme-stats.vercel.app/api?username=KnotzerIO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnotzerIO&langs_count=8&layout=compact&&hide_border=true&theme=react&bg_color=0D1117" />
 </div>
-
