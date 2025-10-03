@@ -11,9 +11,3 @@
    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnotzerIO&text_color=ffffff&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=react" />
 </div>
 
-<h1 align="center">🌟 Contributions 🌟</h1>
-<div align="center">
-   <img src="https://streak-stats.demolab.com/?user=KnotzerIO&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-</div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KnotzerIO&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
